@@ -1,6 +1,9 @@
 
 # MarkDownSyntaxes
-#heading1
-##heading2
-###heading3
+# Heading1
+## Heading2
 How to use markdown syntax
+
+**Bold**
+*Italic*
+*** Bold and Italic ***
